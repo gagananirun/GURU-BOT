@@ -13,9 +13,9 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~Wq6zuC9r",
       "required": true,
-      "value": ""
+      "value": "GuruBot~Wq6zuC9r"
     },
     "MODE": {
       "description": "mode public or private",
@@ -40,7 +40,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "ture"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
